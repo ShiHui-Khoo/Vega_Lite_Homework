@@ -1,4 +1,4 @@
-Country,Dataset_Longitude ,Dataset_Latitude,Year,Status,Life expectancy 
+Country,Dataset_Longitude ,Dataset_Latitude,Year,Status,Life_expectancy 
 Afghanistan,67.709953,33.93911,2015,Developing,65
 Albania,20.168331,41.153332,2015,Developing,77.8
 Algeria,1.659626,28.033886,2015,Developing,75.6
