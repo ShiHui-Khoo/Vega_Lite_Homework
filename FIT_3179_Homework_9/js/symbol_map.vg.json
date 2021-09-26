@@ -14,19 +14,19 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/ShiHui-Khoo/Vega_Lite_Homework/main/FIT_3179_Homework_9/data/Life_Expectancy.csv"
+          "url": "https://raw.githubusercontent.com/ShiHui-Khoo/Vega_Lite_Homework/main/FIT_3179_Homework_9/data/life_expectancy.csv"
         },
         "mark": {"type": "circle", "tooltip": {"content": "data"}},
         "encoding": {
-          "longitude": {"field": "Dataset_Longitude", "type": "quantitative"},
-          "latitude": {"field": "Dataset_Latitude", "type": "quantitative"},
+          "longitude": {"field": "Longitude", "type": "quantitative"},
+          "latitude": {"field": "Latitude", "type": "quantitative"},
           "size": {
-            "field": "Life expectancy",
+            "field": "LifeExpectancy",
             "type": "quantitative",
-            "scale": {"domain": [0, 100]}
+            "scale": {"domain": [50, 90]}
           },
           "color": {
-            "field": "Life expectancy",
+            "field": "LifeExpectancy",
             "type": "quantitative",
             "scale": {"scheme": "reds"}
           }
