@@ -1,4 +1,4 @@
-Country,Dataset_Longitude,Dataset_Latitude,Year,Status,LifeExpectancy 
+Country,Longitude,Latitude,Year,Status,LifeExpectancy 
 Sierra Leone,-11.779889,8.460555,2015,Developing,51
 Angola,17.873887,-11.202692,2015,Developing,52.4
 Central African Republic,20.939444,6.611111,2015,Developing,52.5
